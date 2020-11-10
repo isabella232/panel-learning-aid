@@ -15,5 +15,4 @@ dependencies:
 # pip
   - pip:
       - mortgage
-      - jupyteranalytics
 # install @pyviz/jupyterlab_pyviz jupyter labextension afterwards as well if using jupyterlab
