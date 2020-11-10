@@ -1,1 +1,1 @@
-echo "export GOOGLE_ANALYTICS_TRACKING_ID=UA-142377027-1" >> ~/.bashrc
+pip install jupyteranalytics
