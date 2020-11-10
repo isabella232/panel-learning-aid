@@ -15,4 +15,7 @@ dependencies:
 # pip
   - pip:
       - mortgage
+      - jupyteranalytics
+variables:
+  - GOOGLE_ANALYTICS_TRACKING_ID: UA-142377027-1
 # install @pyviz/jupyterlab_pyviz jupyter labextension afterwards as well if using jupyterlab
